@@ -1,0 +1,3 @@
+***System Integrity Verifier***
+
+System Integrity Verifier (SIV) is a software security and data integrity tool useful for monitoring and alerting on specific file changes. SIV functions as a host-based intrusion detection system. The main goal of this assignment is to implement a very simple system integrity verifier(SIV) for a Linux system. The main goal is to detect file system modifications occurring within directory tree. The SIV outputs statistics and warnings about changes to a report file specified by the use.
